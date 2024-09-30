@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1281705936175497317/Group_17.png?ex=66e348ac&is=66e1f72c&hm=e662df3f7ab14d71f9f84b72b3d88daf16cd224f99cc702f1bd2b7a9082f7bd2&=&format=webp&quality=lossless&width=1440&height=422)
+![](https://i.imgur.com/WxynoZN.png)
 
 # Title: Python ilə YouTube dən video yükləmə.
 

@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1281705935928168653/banner.png?ex=66e348ac&is=66e1f72c&hm=25f5573e9b1ba413a94b992af622f8453a83acd18e0440794d29b11f2e7364c6&=&format=webp&quality=lossless&width=1440&height=436)
+![](https://i.imgur.com/w9XDIsc.png)
 
 # Title: Əməliyyat sistemləri və işləmə məntiqi.
 
@@ -25,7 +25,7 @@
 
 - **iOS:** Apple tərəfindən iPhone və iPad cihazları üçün hazırlanmış əməliyyat sistemidir. Onu digər mobil əməliyyat sistemlərin dən fərqləndirən onun təhlükəsizliyi və sürətli işləməsidir.
 
-![](https://media.discordapp.net/attachments/1227709566045655172/1281705937509548134/Group_4590909090.png?ex=66e348ac&is=66e1f72c&hm=01929aadb27bbe211b9ff3b150ea3ee0e2362120b5e04180e39997395de50687&=&format=webp&quality=lossless&width=882&height=671)
+<img src="https://i.imgur.com/lSAQrb5.png" alt="Resim" width="700"/>
 
 ### Nüvə (Kernel):
 

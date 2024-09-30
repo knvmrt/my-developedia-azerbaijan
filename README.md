@@ -24,6 +24,8 @@
 
    [**Python ilə YT Video**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-8.md)
 
+   [**C# ilə dairənin çevrəsini hesablamaq**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-9.md)
+
 </br>
 <hr></hr>
 

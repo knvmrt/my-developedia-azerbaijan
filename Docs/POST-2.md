@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1281705937144647772/Group_120.png?ex=66e348ac&is=66e1f72c&hm=9bf15a91dfa8b09e0cc378111c921f34f6c8e73c1cf428ed16e199f7c8bdbaa9&=&format=webp&quality=lossless&width=1440&height=422)
+![](https://i.imgur.com/e2pIVWA.png)
 
 # Title: CLI və GUI nədir?
 

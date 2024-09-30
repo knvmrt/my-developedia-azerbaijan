@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1281705937916133447/Newpostbanner.png?ex=66e348ac&is=66e1f72c&hm=5c1e2f2e857e284c90fb0bb53376ac76be37863c60312dd27018a56db5bc6cb2&=&format=webp&quality=lossless&width=1440&height=458)
+![](https://i.imgur.com/xvbFmPK.png)
 
 # Title: Axtarış motoru və Brauzer nədir, fərqləri nələrdir.
 

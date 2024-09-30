@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1281705936825614356/Group_82.png?ex=66e348ac&is=66e1f72c&hm=9a91a2a973536914f855d03c5516c1c8d81c11cd73e0559a018733567ff20117&=&format=webp&quality=lossless&width=1440&height=422)
+![](https://i.imgur.com/iLTeJkL.png)
 
 # Title: Python ilə QR kod yaratmaq.
 

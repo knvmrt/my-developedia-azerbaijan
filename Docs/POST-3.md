@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1283534500126789753/programming.png?ex=66e35827&is=66e206a7&hm=23c313d6f33667c7238e0b7beddce5dcbef3cccd043e4cf754316b8ad6542211&=&format=webp&quality=lossless&width=1440&height=492)
+![](https://i.imgur.com/jod66H1.png)
 
 
 # Title: Proqramlaşdırma ilə əlaqəli hər şey.

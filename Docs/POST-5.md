@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1283536548628926475/Group_88.png?ex=66e35a10&is=66e20890&hm=ccae0d81b4964c411201b69f6b91dad705c52228e6966c67a72db00ad926ffaa&=&format=webp&quality=lossless&width=1440&height=497)
+![](https://i.imgur.com/fEz2xY6.png)
 
 # Title: IDE nədir?
 

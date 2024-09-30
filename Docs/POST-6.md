@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1281708129566068736/Group_85.png?ex=66e34ab7&is=66e1f937&hm=156a172945c36b801fba69723a0532087591e1d77c5c6d960709b7018f9d89f2&=&format=webp&quality=lossless&width=1440&height=422)
+![](https://i.imgur.com/JnNor1Z.png)
 
 # Title: Git və GitHub nədir, fərqləri nələrdir.
 
@@ -22,7 +22,7 @@
 
 [Git`i](https://git-scm.com/) öz rəsmi saytından yükləyin. Və verilən suallar da Next (sonrakı) deyərək keçin sadəcə 5 ci sual da şəkil də işarələnmiş seçimi seçin.
 
-![](https://media.discordapp.net/attachments/1227709566045655172/1281722093712703562/Screenshot_2024-09-07_010150.png?ex=66e2aef8&is=66e15d78&hm=792a3d0364ee39f00347e89e3ec86401c4aec70b47693986513dcf7f623032de&=&format=webp&quality=lossless)
+![](https://i.imgur.com/RQvIoko.png)
 
 Qorulumu tamamladıqdan sonra cmd`ni açın və aşağıdakı kodlar ilə git də özünüzə hesab açın. Hesabı açarkən istifadə etdiyiniz emailin [GitHub](https://github.com/settings/emails) hesabınızın emaili ilə uyğun olduğunu yoxlayın.
 
