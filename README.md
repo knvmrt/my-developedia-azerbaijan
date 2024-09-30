@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1227709566045655172/1283531335050199081/p.jpg?ex=66e35535&is=66e203b5&hm=12c882ebb68916d8d2b8801dca53acb2b16fe348b2fcfb8048b5ccda1bb895cc&=&format=webp&width=1440&height=421)
+![](https://i.imgur.com/JZhk3lj.jpeg)
 
 ## Azerbaycanca proqramlaşdırma və IT dünyası haqqında geniş məlumatlar. Proqramlaşdırma dillərindən proqramlaşdırma alətlərinə qədər geniş bir spektrdə bələdçilik edir. Proqramçılar və texnologiya həvəskarlarına yönəlikdir.
 
