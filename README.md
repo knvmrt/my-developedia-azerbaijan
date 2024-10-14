@@ -18,6 +18,8 @@
 
    [**Git və GitHub**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-6.md)
 
+   [**VM nədir?**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-10.md)
+
 2. **Kod nümunələri:**
 
    [**Python ilə QR kod**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-7.md)
