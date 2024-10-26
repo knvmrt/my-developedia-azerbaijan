@@ -22,6 +22,8 @@
 
    [**BIOS və UEFI nədir?**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-11.md)
 
+   [**IT təməl anlayışlar**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-12.md)
+
 2. **Kod nümunələri:**
 
    [**Python ilə QR kod**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-7.md)
@@ -38,6 +40,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
 [![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/knvmrt)
+[![Bento](https://img.shields.io/badge/Bento-%23151515.svg?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/knvmrt)
 
 <hr></hr>
 
