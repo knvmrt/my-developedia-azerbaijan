@@ -36,10 +36,10 @@
     
 17. **Network (İnternet):** İnternet, dünya üzrə milyonlarla cihazı bir-birinə bağlayan qlobal bir şəbəkədir. İnternet, məlumat əldə etmək, rabitə və məlumat paylaşımı üçün istifadə olunur. TCP/IP protokolu ilə işləyir və dünya üzrə məlumatlara sürətli və asan giriş təmin edir.
     **Network Types:**
-    1.  **LAN (Local Area Network):** LAN, məhdud coğrafi ərazidəki cihazları birləşdirən lokal şəbəkədir. Ev, məktəb və ya ofis mühitində istifadə olunur. LAN yüksək məlumat ötürmə sürəti təmin edir və adətən bir yönləndirici vasitəsilə interneta qoşulur.
-    2.  **WAN (Wide Area Network):** WAN, şəhərlər, ölkələr və ya qitələr kimi geniş sahələri əhatə edən bir şəbəkədir. İnternet, dünya üzrə cihazları birləşdirən ən geniş yayılmış WAN nümunəsidir. WAN, fərqli LAN-ların bir araya gəlməsi ilə formalaşır.
-    3.  **MAN (Metropolitan Area Network):** MAN, şəhər və ya geniş yaşayış ərazilərini əhatə edən bir şəbəkədir. Bir neçə LAN-ı birləşdirir və adətən dövlət qurumları, bələdiyyələr və ya universitet kampusları kimi geniş ərazilərdə istifadə olunur.
-    4.  **PAN (Personal Area Network):** PAN, qısa məsafəli bir əlaqə şəbəkəsidir və fərdi cihazlar arasında bağlantı təmin edir. Bluetooth qulaqcığı, telefon, planşet və ya kompüter kimi cihazlar PAN vasitəsilə bir-biri ilə əlaqə qura bilər.
+    - **LAN (Local Area Network):** LAN, məhdud coğrafi ərazidəki cihazları birləşdirən lokal şəbəkədir. Ev, məktəb və ya ofis mühitində istifadə olunur. LAN yüksək məlumat ötürmə sürəti təmin edir və adətən bir yönləndirici vasitəsilə interneta qoşulur.
+    - **WAN (Wide Area Network):** WAN, şəhərlər, ölkələr və ya qitələr kimi geniş sahələri əhatə edən bir şəbəkədir. İnternet, dünya üzrə cihazları birləşdirən ən geniş yayılmış WAN nümunəsidir. WAN, fərqli LAN-ların bir araya gəlməsi ilə formalaşır.
+    - **MAN (Metropolitan Area Network):** MAN, şəhər və ya geniş yaşayış ərazilərini əhatə edən bir şəbəkədir. Bir neçə LAN-ı birləşdirir və adətən dövlət qurumları, bələdiyyələr və ya universitet kampusları kimi geniş ərazilərdə istifadə olunur.
+    - **PAN (Personal Area Network):** PAN, qısa məsafəli bir əlaqə şəbəkəsidir və fərdi cihazlar arasında bağlantı təmin edir. Bluetooth qulaqcığı, telefon, planşet və ya kompüter kimi cihazlar PAN vasitəsilə bir-biri ilə əlaqə qura bilər.
     
 18. **Server:** Server, müştərilərdən gələn məlumat və ya xidmət sorğularına cavab verən güclü bir kompüterdir. Veb səhifələri, məlumat bazaları, tətbiqlər kimi mənbələr serverlərdə saxlanır və istifadəçilərin tələblərinə cavab verir. Serverlər yüksək işləmə gücünə malikdir və məlumatları sürətlə emal edərək etibarlı şəkildə istifadəçilərə təqdim edir.
     
