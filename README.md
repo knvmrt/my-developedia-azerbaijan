@@ -6,31 +6,31 @@
 
 1. **Texnalogiyalar:**
 
-   [**Əməliyyat Sistemləri**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-1.md)
+   [**Əməliyyat Sistemləri**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-1.md)
 
-   [**CLI və GUI**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-2.md)
+   [**CLI və GUI**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-2.md)
 
-   [**Proqramlaşdırma**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-3.md)
+   [**Proqramlaşdırma**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-3.md)
 
-   [**Axtarış motoru və Brauzer**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-4.md)
+   [**Axtarış motoru və Brauzer**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-4.md)
 
-   [**IDE**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-5.md)
+   [**IDE**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-5.md)
 
-   [**Git və GitHub**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-6.md)
+   [**Git və GitHub**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-6.md)
 
-   [**VM nədir?**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-10.md)
+   [**VM nədir?**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-10.md)
 
-   [**BIOS və UEFI nədir?**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-11.md)
+   [**BIOS və UEFI nədir?**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-11.md)
 
-   [**IT təməl anlayışlar**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-12.md)
+   [**IT təməl anlayışlar**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-12.md)
 
 2. **Kod nümunələri:**
 
-   [**Python ilə QR kod**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-7.md)
+   [**Python ilə QR kod**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-7.md)
 
-   [**Python ilə YT Video**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-8.md)
+   [**Python ilə YT Video**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-8.md)
 
-   [**C# ilə dairənin çevrəsini hesablamaq**](https://github.com/knvmrt/my-developedia-az/blob/master/Docs/POST-9.md)
+   [**C# ilə dairənin çevrəsini hesablamaq**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-9.md)
 
 </br>
 <hr></hr>

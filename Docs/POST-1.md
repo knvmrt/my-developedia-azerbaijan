@@ -49,6 +49,6 @@ Nüvə (Kernel) əməliyyat sisteminin əsas hissəsidir və kompüter resurslar
 
 **Əməliyyat sitemi ilə əlaqəli müzakirələrim:**
 
-[CLI və GUI nədir?](https://turancyberteam.org/d/140-cli-v%C9%99-gui-n%C9%99dir)
+[CLI və GUI nədir?](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-2.md)
 
 [**_by knvmrt_**](https://github.com/knvmrt)
