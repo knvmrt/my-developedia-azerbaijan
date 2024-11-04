@@ -25,7 +25,7 @@ Brauzer (browser) internetdə yerləşən veb səhifələrə baxmaq, onlarla qar
 
 ### Brauzerin İşləmə Prinsipiləri:
 
-- **URL Daxil Edilməsi:** İstifadəçi brauzerə bir veb saytın URL-sini məsələn (www.turancyberteam.org/) daxil edir və ya axtarış motoru vasitəsilə bir səhifəyə keçid edir.
+- **URL Daxil Edilməsi:** İstifadəçi brauzerə bir veb saytın URL-sini məsələn (www.youtube.com/) daxil edir və ya axtarış motoru vasitəsilə bir səhifəyə keçid edir.
 
 - **HTTP/HTTPS Sorğusu Göndərmə:** Brauzer həmin URL-in domen adını DNS serverinə sorğu göndərərək domen adı üçün IP ünvanı alır. Daha sonra həmin IP ünvanına HTTP və ya HTTPS protokolundan istifadə edərək sorğu göndərir. Bu sorğu veb serverə çatdırılır və bu server həmin sorğuya cavab olaraq veb səhifəni təmin edir.
 
@@ -33,7 +33,7 @@ Brauzer (browser) internetdə yerləşən veb səhifələrə baxmaq, onlarla qar
 
 - **Render (Vizual Təqdimetmə):** Brauzer aldığı HTML və CSS məlumatlarını analiz edir və həmin məlumatlara əsasən səhifəni render (vizual görüntü) etməyə başlayır.
 
-      - **Render mühərriki** bu mərhələdə işləyir. Məsələn, Chrome-da bu "Blink", Firefox-da "Gecko" render mühərrikidir. Bu mühərrik HTML məzmununu bir ağac strukturu DOM (Document Object Model - Sənəd Obyekt Modeli) formasına çevirir və saytı ekranda düzgün olaraq göstərir.
+- **Render mühərriki** bu mərhələdə işləyir. Məsələn, Chrome-da bu "Blink", Firefox-da "Gecko" render mühərrikidir. Bu mühərrik HTML məzmununu bir ağac strukturu DOM (Document Object Model - Sənəd Obyekt Modeli) formasına çevirir və saytı ekranda düzgün olaraq göstərir.
 
 - **JavaScript-in İcra Edilməsi:** Əgər səhifədə JavaScript kodları varsa, bu kodlar brauzerin JavaScript mühərriki tərəfindən icra edilir. Chrome-da bu mühərrik "V8", Firefox-da "SpiderMonkey" adlanır. JavaScript səhifənin dinamik funksiyalarını təmin edir (məsələn, düymələrə basmaq, animasiyalar və s.).
 
@@ -47,7 +47,7 @@ Brauzer (browser) internetdə yerləşən veb səhifələrə baxmaq, onlarla qar
 
 3. **Gizli Mod: (Stealth Mod)** İstifadəçi internetdə izlənmədən gəzmək üçün gizli moddan istifadə edə bilər, bu zaman tarayıcı tarixçəsi və cookies saxlanmır.
 
-4. Uzatmalar (Extensions): Brauzerlərin funksionallığını artırmaq üçün müxtəlif uzatmalar, əlavələr dəstəkləyir məsələn (reklam bloklama, təhlükəsizlik, tərcümə) kimi uzantılar yəni əlavələr istifadə etmək olur.
+4. **Uzatmalar (Extensions):** Brauzerlərin funksionallığını artırmaq üçün müxtəlif uzatmalar, əlavələr dəstəkləyir məsələn (reklam bloklama, təhlükəsizlik, tərcümə) kimi uzantılar yəni əlavələr istifadə etmək olur.
 
 ### Axtarış motoru ile Brauzer arasında kı, fərqlər:
 
