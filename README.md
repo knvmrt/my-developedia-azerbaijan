@@ -32,6 +32,10 @@
 
    [**C# ilə dairənin çevrəsini hesablamaq**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-9.md)
 
+3. **Cybersecurity (Kiber Təhlükəsizlik):**
+   
+   [**SQL Injection**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-13.md)
+
 </br>
 <hr></hr>
 
