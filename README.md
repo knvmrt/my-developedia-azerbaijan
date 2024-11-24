@@ -24,6 +24,8 @@
 
    [**IT təməl anlayışlar**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-12.md)
 
+   [**Kvant kompüteri nədir?**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-14.md)
+
 2. **Kod nümunələri:**
 
    [**Python ilə QR kod**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-7.md)
