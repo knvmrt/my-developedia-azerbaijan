@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/xvbFmPK.png)
 
-# Title: Axtarış motoru və Brauzer nədir, fərqləri nələrdir.
+# Başlıq: Axtarış motoru və Brauzer nədir, fərqləri nələrdir.
 
 
 ### Axtarış Motoru (Search Engine):

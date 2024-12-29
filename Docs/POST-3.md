@@ -1,7 +1,6 @@
 ![](https://i.imgur.com/jod66H1.png)
 
-
-# Title: Proqramlaşdırma ilə əlaqəli hər şey.
+# Başlıq: Proqramlaşdırma ilə əlaqəli hər şey.
 
 
 ### Proqramlaşdırma dilləri:

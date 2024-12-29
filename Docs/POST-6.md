@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/JnNor1Z.png)
 
-# Title: Git və GitHub nədir, fərqləri nələrdir.
+# Başlıq: Git və GitHub nədir, fərqləri nələrdir.
 
 ### Git və GitHub nədir:
 
@@ -30,5 +30,7 @@ Qorulumu tamamladıqdan sonra cmd`ni açın və aşağıdakı kodlar ilə git d�
 git config --global user.name "istifadəçi adınız"
 git config --global user.email "email adresiniz"
 ```
+
+### Qeyd: Bir çox proqramçı tərəfindən GitHub istifadə olunsa belə bəzi insanlar GitLab-dan istifadə edir. GitLab, GitHub`ın alternatividir və aralarında kiçik fərqliliklər var deyə bilərik. 
 
 [**_by knvmrt_**](https://github.com/knvmrt)

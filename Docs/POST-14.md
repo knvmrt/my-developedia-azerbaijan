@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/47M71ch.png)
 
-# Title: Kvant kompüteri nədir?
+# Başlıq: Kvant kompüteri nədir?
 
 Kvant kompüteri klassik kompüterlərdən xaricində kvant mexanikasının prinsiplərinə əsaslanan hesablama cihazıdır. Klassik kompüterlər məlumatı bit adlanan 0 və ya 1 vəziyyətlərində emal etdiyi halda, kvant kompüterləri məlumatı kubit adlanan kvant bitlərində emal edir. Qubitlər eyni vaxtda həm 0, həm də 1 vəziyyətlərində ola bilər ki, bu da kvant kompüterlərini inanılmaz dərəcədə sürətli və güclü edir. Bu sinxron vəziyyət kvant superpozisiya adlanır və kvant kompüterlərinin əsasını təşkil edir.
 

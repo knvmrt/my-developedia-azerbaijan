@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/ON213rF.png)
 
-# Title: BIOS və UEFI Nədir?
+# Başlıq: BIOS və UEFI Nədir?
 
 ### ▸ BIOS:
 

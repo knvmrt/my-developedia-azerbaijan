@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/5oXbp62.png)
 
-# Title: Virtual Maşın (VM) Nədir?
+# Başlıq: Virtual Maşın (VM) Nədir?
 
 Virtual maşın (VM), fiziki kompüter üzərində çalışan, bir kompüterin bütün xüsusiyyətlərini təqlid edən proqram təminatıdır. Virtual maşınlar bir serverin resurslarını bölərək bir neçə virtual sistemin işləməsinə imkan yaradır. Bu, avadanlığın daha səmərəli istifadəsini və eyni fiziki serverdə müxtəlif əməliyyat sistemlərinin bir arada işləməsini mümkün edir.
 

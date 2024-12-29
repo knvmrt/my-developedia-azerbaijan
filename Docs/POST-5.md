@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/fEz2xY6.png)
 
-# Title: IDE nədir?
+# Başlıq: IDE nədir?
 
 ### IDE nədir:
 

@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/iLTeJkL.png)
 
-# Title: Python ilə QR kod yaratmaq.
+# Başlıq: Python ilə QR kod yaratmaq.
 
 ### Kodun qısa izahı:
 

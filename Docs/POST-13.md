@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/oDR653x.png)
 
-# Title: SQL ve SQL Injection nədir?
+# Başlıq: SQL ve SQL Injection nədir?
 
 ## SQL nədir:
 

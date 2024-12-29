@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/2A8ycxm.png)
 
-# Title: IT ilə əlaqəli təməl anlayışlar.
+# Başlıq: IT ilə əlaqəli təməl anlayışlar.
 
 1. **RAM (Random Access Memory):** RAM, məlumatların müvəqqəti olaraq saxlandığı və sürətli giriş təmin edən bir yaddaş növüdür. Kompüter aktiv işləyərkən RAM proqramlar və əməliyyatlar üçün müvəqqəti məlumatları saxlayır. Elektrik kəsildikdə RAM-dəki məlumatlar silinir, yəni qısa müddətli məlumat saxlamaq üçün istifadə olunur. Daha çox RAM kompüterin eyni anda daha çox əməliyyat etməsinə kömək edir.
    
@@ -35,7 +35,9 @@
 16. **ISA (Industry Standard Architecture):** ISA, köhnə kompüter sistemlərində istifadə edilən bir verilən yolu standartıdır. Adətən səs və video kartlarının bağlanması üçün istifadə olunan ISA bu gün PCI və PCIe kimi daha sürətli verilən yolları ilə əvəz edilmişdir.
     
 17. **Network (İnternet):** İnternet, dünya üzrə milyonlarla cihazı bir-birinə bağlayan qlobal bir şəbəkədir. İnternet, məlumat əldə etmək, rabitə və məlumat paylaşımı üçün istifadə olunur. TCP/IP protokolu ilə işləyir və dünya üzrə məlumatlara sürətli və asan giriş təmin edir.
-    **Network Types:**
+
+    ***Network Types:***
+
     - **LAN (Local Area Network):** LAN, məhdud coğrafi ərazidəki cihazları birləşdirən lokal şəbəkədir. Ev, məktəb və ya ofis mühitində istifadə olunur. LAN yüksək məlumat ötürmə sürəti təmin edir və adətən bir yönləndirici vasitəsilə interneta qoşulur.
     - **WAN (Wide Area Network):** WAN, şəhərlər, ölkələr və ya qitələr kimi geniş sahələri əhatə edən bir şəbəkədir. İnternet, dünya üzrə cihazları birləşdirən ən geniş yayılmış WAN nümunəsidir. WAN, fərqli LAN-ların bir araya gəlməsi ilə formalaşır.
     - **MAN (Metropolitan Area Network):** MAN, şəhər və ya geniş yaşayış ərazilərini əhatə edən bir şəbəkədir. Bir neçə LAN-ı birləşdirir və adətən dövlət qurumları, bələdiyyələr və ya universitet kampusları kimi geniş ərazilərdə istifadə olunur.
@@ -48,5 +50,25 @@
 20. **Client (Müştəri/İstifadəçi):** Müştəri serverə qoşulan və məlumat və ya xidmətlər tələb edən cihaz və ya proqramdır. Müştərilər serverlər tərəfindən təmin edilən məlumat və resurslardan istifadə edərək öz funksiyalarını yerinə yetirirlər. Veb brauzeri serverə qoşularaq veb səhifələri göstərən müştəri nümunəsidir.
     
 21. **[**VM Virtual Machine (Virtual Maşın):**](https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-10.md)** VM, fiziki bir komputer üzərində sanal olaraq fəaliyyət göstərən bir proqram mühitidir. Virtual maşınlar, bir əməliyyat sisteminin və ya bir tətbiqin müstəqil bir mühitdə işləməsinə imkan tanıyır. Hər VM, öz əməliyyat sistemi və tətbiqləri ilə birgə müstəqil bir komputer kimi çalışır, beləliklə bir neçə VM eyni fiziki server üzərində yerləşdirilə bilər. Bu, resursların daha səmərəli istifadəsini təmin edir və müxtəlif test və inkişaf ssenariləri üçün ideal bir mühit təqdim edir. Virtual maşınlar, sanallaşdırma proqramları (məsələn, VMware, VirtualBox, Hyper-V) vasitəsilə yaradılır və idarə edilir.
+
+22. **API (Application Programming Interface):** API (Application Programming Interface), iki fərqli proqramın bir-biri ilə ünsiyyət qurmasını təmin edən interfeysdir. API-lər tətbiqlər arasında məlumat mübadiləsini asanlaşdırır və proqram təminatının inkişaf prosesini sürətləndirir. Məsələn, hava proqnozu tətbiqi hava məlumatlarını bir API vasitəsilə əldə edə bilər. Bu, tərtibatçıların hər şeyi sıfırdan yazmaq məcburiyyətində qalmasının qarşısını alır.
+API-lər adətən REST (Representational State Transfer) və ya GraphQL kimi standartlardan istifadə edir. REST API-lər HTTP protokolu vasitəsilə GET, POST, PUT, DELETE kimi sorğularla məlumat alıb göndərir.
+
+1.  **Token:** Token, API-lərin təhlükəsiz işləməsini təmin etmək üçün istifadə olunan rəqəmsal açardır. İstifadəçinin təsdiqlənməsi və səlahiyyətləndirilməsi proseslərində geniş istifadə olunur. Token, istifadəçinin kimliyini təsdiqləmək və həmin istifadəçiyə müəyyən giriş hüquqları vermək üçün yaradılan unikal bir sətrdir.
+    
+    ***Token İstifadə Prosesləri:***
+
+    1. **Doğrulama:** İstifadəçi API-yə giriş üçün istifadəçi adı və şifrə kimi məlumatları təqdim edir.
+    2. **Token Yaratma:** API bu məlumatları yoxlayır və uğurlu girişdən sonra bir Token yaradır.
+    3. **Token ilə Sorğu:** İstifadəçi API-yə giriş təmin etmək üçün hər sorğusunda bu Token-i göndərir.
+    4. **Doğrulama və Giriş:** API gələn Token-in etibarlı olub-olmadığını yoxlayır və istifadəçiyə icazə verir.
+    
+    ***Token Növləri:***
+
+    5. **JWT (JSON Web Token):** JSON formatında məlumat daşıyan və təhlükəsizlik üçün imzalanan Token növüdür. İstifadəçi kimliyi və hüquq məlumatlarını daxil edir.
+    6. **OAuth Token:** OAuth protokolu ilə yaradılan Token-dir. Xüsusilə üçüncü tərəf tətbiqlərdə istifadəçilərin şəxsi məlumatlarını paylaşmadan təhlükəsiz giriş təmin edir.
+    7. **Access Token və Refresh Token:** 
+        - **Access Token:** API-yə giriş təmin etmək üçün istifadə olunur və adətən qısa müddət üçün etibarlıdır.
+        - **Refresh Token:** Access Token-in müddəti bitdikdə yeni bir Access Token yaratmaq üçün istifadə olunur.
 
 [**_by knvmrt_**](https://github.com/knvmrt)

@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/WxynoZN.png)
 
-# Title: Python ilə YouTube dən video yükləmə.
+# Başlıq: Python ilə YouTube dən video yükləmə.
 
 
 **Bu kodda _pytube_ kitabxanası istifadə olunur, YouTube-dan video yükləmək üçün istifadə edilir.**

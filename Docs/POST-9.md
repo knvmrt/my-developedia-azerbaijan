@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/KJ3s0uT.png)
 
-# Title: C# ilə dairənin çevrəsini hesablamaq.
+# Başlıq: C# ilə dairənin çevrəsini hesablamaq.
 
 ```csharp
 class Program
