@@ -38,6 +38,8 @@
   <summary><h2> 🛡️Kiber Təhlükəsizlik:</h2></summary>
   <ul>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-13.md">SQL Injection nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-17.md">NMAP nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-18.md">Metasploit nədir?</a></h3>
   </ul>
     <hr></hr> 
   </details>
