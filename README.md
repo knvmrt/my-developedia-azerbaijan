@@ -3,7 +3,7 @@
 ## Azerbaycanca proqramlaşdırma və IT dünyası haqqında geniş məlumatlar. Proqramlaşdırma dillərindən proqramlaşdırma alətlərinə qədər geniş bir spektrdə bələdçilik edir. Proqramçılar və texnologiya həvəskarlarına yönəlikdir.
 
 <details>
- <summary> <h2> 📌MÖVZULAR </h2> </summary>
+ <summary open> <h2> 📌MÖVZULAR </h2> </summary>
 
   <details>
   <summary><h2> ⚙️Texnalogiyalar:</h2></summary>
@@ -54,6 +54,8 @@
 [![Bento](https://img.shields.io/badge/Bento-%23151515.svg?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/knvmrt)
 
 <hr></hr>
+
+<a href="https://kofe.al/@knvmrt"> <img src="https://i.imgur.com/2nSVp1k.png" alt="buymeacoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
 
 ## © Creative Commons Attribution-NonCommercial 4.0 Beynəlxalq Lisenziyası
 
