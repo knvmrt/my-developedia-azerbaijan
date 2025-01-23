@@ -1,4 +1,4 @@
-![](./img/MDA-welcome-v2.avif)
+![](./Img/MDA-welcome-v2.avif)
 
 ## Azerbaycanca proqramlaşdırma və IT dünyası haqqında geniş məlumatlar. Proqramlaşdırma dillərindən proqramlaşdırma alətlərinə qədər geniş bir spektrdə bələdçilik edir. Proqramçılar və texnologiya həvəskarlarına yönəlikdir.
 
@@ -83,14 +83,14 @@
 
 # 🌐 Sosial Şəbəkələrim:
 
-[![My Site:](./img/knvmrt.avif)](https://knvmrt.vercel.app/)
+[![My Site:](./Img/knvmrt.avif)](https://knvmrt.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedIn&logoColor=white)](https://linkedin.com/in/knvmrt)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/knvmrt)
 [![Behance](https://img.shields.io/badge/Behance-1769ff.svg?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/knvmrt)
 
 <hr></hr>
 
-<a href="https://kofe.al/@knvmrt"> <img src="./img/coffee.avif" alt="buy me acoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
+<a href="https://kofe.al/@knvmrt"> <img src="./Img/coffee.avif" alt="buy me acoffee" width="auto" height="30" title="Buy me a coffee"/> </a>
 
 ## © Creative Commons Attribution-NonCommercial 4.0 Beynəlxalq Lisenziyası
 
