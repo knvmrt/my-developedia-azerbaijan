@@ -1,6 +1,6 @@
-![](https://i.imgur.com/e2pIVWA.png)
+![](../img/cligui.avif)
 
-# TBaşlıqitle: CLI və GUI nədir?
+# Başlıq: CLI və GUI nədir?
 
 
 Əməliyyat sistemlərini idarə etmənin iki yolu var. CLI və GUI bunlar aralarındakı fərqi və tərifi.

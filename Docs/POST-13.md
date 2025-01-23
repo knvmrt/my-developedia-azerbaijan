@@ -1,4 +1,4 @@
-![](https://i.imgur.com/oDR653x.png)
+![](../img/sqlinj.avif)
 
 # Başlıq: SQL ve SQL Injection nədir?
 

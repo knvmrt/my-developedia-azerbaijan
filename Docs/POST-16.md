@@ -1,4 +1,4 @@
-![](https://i.imgur.com/GBmigSM.png)
+![](../img/wsl.avif)
 
 # Başlıq: WSL (Windows Subsystem for Linux) Nədir?
 

@@ -1,4 +1,4 @@
-![](https://i.imgur.com/KJ3s0uT.png)
+![](../img/circle-1.avif)
 
 # Başlıq: C# ilə dairənin çevrəsini hesablamaq.
 
@@ -27,7 +27,7 @@ class Program
 
 ### Kodun riyazi düsturları: 
 
-<img src="https://i.imgur.com/kDMD3NY.png" alt="Resim" width="700"/>
+<img src="../img/circle-2.avif" alt="Resim" width="700"/>
 
 **Qısa məlumat:** `{circle:F2}` ədədin onluq hissəsini 2 rəqəmli olaraq yuvarlaqlaşdıraraq göstərir və rəqəmi daha oxunaqlı edir.
 

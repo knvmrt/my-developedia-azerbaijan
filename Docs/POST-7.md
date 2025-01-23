@@ -1,4 +1,4 @@
-![](https://i.imgur.com/iLTeJkL.png)
+![](../img/pyqr.avif)
 
 # Başlıq: Python ilə QR kod yaratmaq.
 

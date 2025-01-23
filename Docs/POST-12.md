@@ -1,4 +1,4 @@
-![](https://i.imgur.com/2A8ycxm.png)
+![](../img/itconcepts.avif)
 
 # Başlıq: IT ilə əlaqəli təməl anlayışlar.
 

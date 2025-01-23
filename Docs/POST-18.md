@@ -1,4 +1,4 @@
-![](https://i.imgur.com/Uke2MAt.png)
+![](../img/metasploit.avif)
 
 # Başlıq: Metasploit Nədir?
 

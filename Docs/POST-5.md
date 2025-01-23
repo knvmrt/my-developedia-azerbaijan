@@ -1,4 +1,4 @@
-![](https://i.imgur.com/fEz2xY6.png)
+![](../img/ide.avif)
 
 # Başlıq: IDE nədir?
 

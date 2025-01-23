@@ -1,4 +1,4 @@
-![](https://i.imgur.com/w9XDIsc.png)
+![](../img/oss.avif)
 
 # Başlıq: Əməliyyat sistemləri və işləmə məntiqi.
 
@@ -25,7 +25,7 @@
 
 - **iOS:** Apple tərəfindən iPhone və iPad cihazları üçün hazırlanmış əməliyyat sistemidir. Onu digər mobil əməliyyat sistemlərin dən fərqləndirən onun təhlükəsizliyi və sürətli işləməsidir.
 
-<img src="https://i.imgur.com/lSAQrb5.png" alt="Resim" width="700"/>
+<img src="../img/oss-2.avif" alt="Resim" width="700"/>
 
 ### Nüvə (Kernel):
 

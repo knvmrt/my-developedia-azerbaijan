@@ -1,4 +1,4 @@
-![](https://i.imgur.com/jod66H1.png)
+![](../img/programming.avif)
 
 # Başlıq: Proqramlaşdırma ilə əlaqəli hər şey.
 

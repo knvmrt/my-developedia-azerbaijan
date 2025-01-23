@@ -1,4 +1,4 @@
-![](https://i.imgur.com/M454nph.png)
+![](../img/nmap.avif)
 
 # Başlıq: Nmap Nədir?
 

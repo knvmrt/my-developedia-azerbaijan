@@ -1,4 +1,4 @@
-![](https://i.imgur.com/5oXbp62.png)
+![](../img/vm-1.avif)
 
 # Başlıq: Virtual Maşın (VM) Nədir?
 
@@ -39,7 +39,7 @@ Virtual maşın (VM), fiziki kompüter üzərində çalışan, bir kompüterin b
 
 Virtual maşınlar, bulud hesablama infrastrukturunun əsasını təşkil edir. Bulud təminatçıları (Amazon AWS, Microsoft Azure, Google Cloud) istifadəçilərə virtual maşınları icarəyə götürmə imkanı verərək çevik və miqyaslana bilən hesablama resursları təmin edir. İstifadəçilər, avadanlıq idarəçiliyi ilə məşğul olmadan ehtiyaclarına görə CPU, yaddaş və saxlama resurslarını artırıb azalda bilərlər.
 
-<img src="https://i.imgur.com/A7FAT3o.png" alt="Resim" width="700"/>
+<img src="../img/vm-2.avif" alt="Resim" width="700"/>
 
 ### Nəticə:
 

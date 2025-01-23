@@ -1,4 +1,4 @@
-![](https://i.imgur.com/WxynoZN.png)
+![](../img/pyyt.avif)
 
 # Başlıq: Python ilə YouTube dən video yükləmə.
 
