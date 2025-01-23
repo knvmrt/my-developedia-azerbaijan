@@ -1,4 +1,4 @@
-![](../img/kvant-1.avif)
+![](../Img/kvant-1.avif)
 
 # Başlıq: Kvant kompüteri nədir?
 
@@ -31,7 +31,7 @@ Kvant kompüteri klassik kompüterlərdən xaricində kvant mexanikasının prin
 3. **Kvant Qapıları:**
        - Kvant kompüterlərində əməliyyatlar klassik kompüterlərdəki məntiq qapılarına bənzər kvant qapıları ilə həyata keçirilir. Bununla belə, kvant qapıları superpozisiya və dolaşıqlıq kimi xüsusiyyətlərdən istifadə edərək daha mürəkkəb əməliyyatlar həyata keçirə bilir.
 
-<img src="../img/kvant-2.avif" alt="Resim" width="80%"/>
+<img src="../Img/kvant-2.avif" alt="Resim" width="80%"/>
 
 ### Klassik və Kvant Kompüterlərin İstifadə Sahələri:
 

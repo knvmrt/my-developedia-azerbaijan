@@ -1,4 +1,4 @@
-![](../img/programming.avif)
+![](../Img/programming.avif)
 
 # Başlıq: Proqramlaşdırma ilə əlaqəli hər şey.
 

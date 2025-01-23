@@ -1,4 +1,4 @@
-![](../img/browsers.avif)
+![](../Img/browsers.avif)
 
 # Başlıq: Axtarış motoru və Brauzer nədir, fərqləri nələrdir.
 

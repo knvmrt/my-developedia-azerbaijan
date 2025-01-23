@@ -1,4 +1,4 @@
-![](../img/itconcepts.avif)
+![](../Img/itconcepts.avif)
 
 # Başlıq: IT ilə əlaqəli təməl anlayışlar.
 

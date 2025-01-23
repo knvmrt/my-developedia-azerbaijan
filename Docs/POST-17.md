@@ -1,4 +1,4 @@
-![](../img/nmap.avif)
+![](../Img/nmap.avif)
 
 # Başlıq: Nmap Nədir?
 

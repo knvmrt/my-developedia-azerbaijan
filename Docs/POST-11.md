@@ -1,4 +1,4 @@
-![](../img/biosuefi.avif)
+![](../Img/biosuefi.avif)
 
 # Başlıq: BIOS və UEFI Nədir?
 
@@ -22,7 +22,7 @@ BIOS, kompüterlərin ən əsas proqramlarından biridir və "Basic Input/Output
 
 BIOS-un interfeysi adətən sadədir və adətən klaviatura ilə idarə olunur. BIOS ayarlarına, kompüter açılarkən adətən **Del, F2** və ya **Esc** düymələrinə basaraq daxil olmaq mümkündür. BIOS ekranında, kompüterin aparat komponentlərinin parametrləri və yükləmə sırası kimi vacib ayarları dəyişdirmək mümkündür. Yanlış edilən ayarlar kompüterin düzgün işləməsini çətinləşdirə bilər, buna görə də BIOS ayarlarını dəyişmək diqqətli olunmalıdır.
 
-<img src="../img/biosuefi-2.avif" alt="Resim" width="700"/>
+<img src="../Img/biosuefi-2.avif" alt="Resim" width="700"/>
 
 ### ▸ UEFI:
 

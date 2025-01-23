@@ -1,4 +1,4 @@
-![](../img/ascii.avif)
+![](../Img/ascii.avif)
 
 # Başlıq: ASCII, Unicode, UTF-8 nədir?
 

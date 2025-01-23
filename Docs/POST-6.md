@@ -1,4 +1,4 @@
-![](../img/git-1.avif)
+![](../Img/git-1.avif)
 
 # Başlıq: Git və GitHub nədir, fərqləri nələrdir.
 
@@ -22,7 +22,7 @@
 
 [Git`i](https://git-scm.com/) öz rəsmi saytından yükləyin. Və verilən suallar da Next (sonrakı) deyərək keçin sadəcə 5 ci sual da şəkil də işarələnmiş seçimi seçin.
 
-![](../img/git-2.avif)
+![](../Img/git-2.avif)
 
 Qorulumu tamamladıqdan sonra cmd`ni açın və aşağıdakı kodlar ilə git də özünüzə hesab açın. Hesabı açarkən istifadə etdiyiniz emailin [GitHub](https://github.com/settings/emails) hesabınızın emaili ilə uyğun olduğunu yoxlayın.
 

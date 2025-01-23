@@ -1,4 +1,4 @@
-![](../img/wsl.avif)
+![](../Img/wsl.avif)
 
 # Başlıq: WSL (Windows Subsystem for Linux) Nədir?
 

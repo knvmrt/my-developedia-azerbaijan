@@ -1,4 +1,4 @@
-![](../img/metasploit.avif)
+![](../Img/metasploit.avif)
 
 # Başlıq: Metasploit Nədir?
 

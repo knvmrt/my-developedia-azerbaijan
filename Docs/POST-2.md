@@ -1,4 +1,4 @@
-![](../img/cligui.avif)
+![](../Img/cligui.avif)
 
 # Başlıq: CLI və GUI nədir?
 

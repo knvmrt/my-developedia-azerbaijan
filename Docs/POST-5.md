@@ -1,4 +1,4 @@
-![](../img/ide.avif)
+![](../Img/ide.avif)
 
 # Başlıq: IDE nədir?
 
