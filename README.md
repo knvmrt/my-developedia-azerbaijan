@@ -79,8 +79,6 @@
   </details>
 </details>
 
-<br></br>
-
 # 🌐 Sosial Şəbəkələrim:
 
 [![My Site:](./Img/knvmrt.avif)](https://knvmrt.vercel.app/)
