@@ -3,6 +3,7 @@
  */
 .site-header {
   min-height: $spacing-unit * 1.865;
+  border-bottom: 1px solid $grey-color;
   // Positioning context for the mobile navigation icon
   position: relative;
 }
