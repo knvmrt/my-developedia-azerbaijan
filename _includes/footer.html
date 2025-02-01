@@ -19,6 +19,55 @@
 
   <!-- Alt Kısımda Lisans Bilgisi -->
   <div class="footer-bottom">
-    <p>© <span id="current-year">2023</span> My Developedia AZ. All rights reserved.</p>
+    <p>© <span id="current-year"></span> My Developedia AZ. All rights reserved.</p>
   </div>
 </footer>
+
+<style>
+  /* Footer Stili */
+  footer {
+    background-color: #333;
+    /* Koyu gri arka plan */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+
+  .footer-left p {
+    margin: 0;
+    font-size: 18px;
+  }
+
+  .footer-right a {
+    margin-left: 15px;
+    text-decoration: none;
+  }
+
+  .footer-right img {
+    vertical-align: middle;
+  }
+
+  .footer-bottom {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #ccc;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const yearElement = document.getElementById("current-year");
+    if (yearElement) {
+      const currentYear = new Date().getFullYear();
+      yearElement.textContent = currentYear;
+    }
+  });</script>
