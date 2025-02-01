@@ -1,6 +1,27 @@
 <header class="site-header" role="banner">
-
-  <div class="wrapper">
-    <a class="site-title" rel="author" href="{{ " /" | relative_url }}"><img src="../assets/MDA-logo.avif"
-        alt="My Developedia Azerbaijan logo" height="50px"></a>
+  <div class="header-content">
+    <div>
+      <a href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/images/MDA-logo.avif' | relative_url }}" alt="Site Logo" height="50px">
+      </a>
+    </div>
+  </div>
 </header>
+
+<style>
+  header {
+    background-color: #0E1117;
+    color: #F0F1F4;
+    padding: 20px 0;
+    text-align: center;
+  }
+
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 3px 20px;
+  }
+</style>
