@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is WSL?"
+---
+
 ![](../Img/wsl.avif)
 
 # Başlıq: WSL (Windows Subsystem for Linux) Nədir?

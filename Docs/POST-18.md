@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is Metasploit?"
+---
+
 ![](../Img/metasploit.avif)
 
 # Başlıq: Metasploit Nədir?

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is a quantum computer?"
+---
+
 ![](../Img/kvant-1.avif)
 
 # Başlıq: Kvant kompüteri nədir?

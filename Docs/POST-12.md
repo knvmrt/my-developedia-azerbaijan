@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Basic concepts related to IT"
+---
+
 ![](../Img/itconcepts.avif)
 
 # Başlıq: IT ilə əlaqəli təməl anlayışlar.

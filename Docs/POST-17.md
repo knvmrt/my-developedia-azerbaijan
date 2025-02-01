@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is Nmap?"
+---
+
 ![](../Img/nmap.avif)
 
 # Başlıq: Nmap Nədir?

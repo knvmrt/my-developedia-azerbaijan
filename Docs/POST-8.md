@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Downloading videos from YouTube with Python."
+---
+
 ![](../Img/pyyt.avif)
 
 # Başlıq: Python ilə YouTube dən video yükləmə.

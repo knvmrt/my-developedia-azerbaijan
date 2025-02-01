@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is a Virtual Machine (VM)?"
+---
+
 ![](../Img/vm-1.avif)
 
 # Başlıq: Virtual Maşın (VM) Nədir?

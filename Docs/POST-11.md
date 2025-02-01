@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is BIOS and UEFI?"
+---
+
 ![](../Img/biosuefi.avif)
 
 # Başlıq: BIOS və UEFI Nədir?

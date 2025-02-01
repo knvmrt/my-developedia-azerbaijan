@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is SQL and SQL Injection?"
+---
+
 ![](../Img/sqlinj.avif)
 
 # Başlıq: SQL ve SQL Injection nədir?

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is CLI and GUI"
+---
+
 ![](../Img/cligui.avif)
 
 # Başlıq: CLI və GUI nədir?

@@ -1,4 +1,9 @@
-![](./Img/MDA-welcome-v2.avif)
+---
+layout: home
+title: "Welcome to my IT documentation page."
+---
+
+[![](./Img/MDA-welcome-v2.avif)](https://github.com/knvmrt/my-developedia-azerbaijan)
 
 ## Azerbaycanca proqramlaşdırma və IT dünyası haqqında geniş məlumatlar. Proqramlaşdırma dillərindən proqramlaşdırma alətlərinə qədər geniş bir spektrdə bələdçilik edir. Proqramçılar və texnologiya həvəskarlarına yönəlikdir.
 
@@ -79,7 +84,7 @@
   </details>
 </details>
 
-</br>
+<br></br>
 
 # 🌐 Sosial Şəbəkələrim:
 

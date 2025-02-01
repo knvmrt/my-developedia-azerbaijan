@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Everything related to programming."
+---
+
 ![](../Img/programming.avif)
 
 # Başlıq: Proqramlaşdırma ilə əlaqəli hər şey.

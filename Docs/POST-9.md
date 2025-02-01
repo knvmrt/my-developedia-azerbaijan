@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Calculating the circumference of a circle with C#."
+---
+
 ![](../Img/circle-1.avif)
 
 # Başlıq: C# ilə dairənin çevrəsini hesablamaq.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is a Git and GitHub"
+---
+
 ![](../Img/git-1.avif)
 
 # Başlıq: Git və GitHub nədir, fərqləri nələrdir.

@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is a IDE"
+---
+
 ![](../Img/ide.avif)
 
 # Başlıq: IDE nədir?

@@ -1,7 +1,11 @@
+---
+layout: default
+title: "Operating systems and operating logic"
+---
+
 ![](../Img/oss.avif)
 
 # Başlıq: Əməliyyat sistemləri və işləmə məntiqi.
-
 
 **Əməliyyat sistemi** _(Operating System - OS)_, kompüterin və ya başqa bir cihazın resurslarını idarə edən və istifadəçilərin proqramları icra edə bilməsi üçün bir mühit yaradan əsas proqram təminatıdır. Əməliyyat sistemi həm də texniki təchizat (hardware) ilə proqram (software) arasındakı əlaqəni təmin edir. Əməliyyat sistemləri istifadəçinin təcrübəsini və cihazın funksionallığını müəyyən edir. Kompüterlər, smartfonlar, serverlər və digər cihazlar əməliyyat sistemləri olmadan effektiv şəkildə işləyə bilməz.
 

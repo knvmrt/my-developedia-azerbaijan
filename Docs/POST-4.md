@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is a Search Engine and Browser?"
+---
+
 ![](../Img/browsers.avif)
 
 # Başlıq: Axtarış motoru və Brauzer nədir, fərqləri nələrdir.

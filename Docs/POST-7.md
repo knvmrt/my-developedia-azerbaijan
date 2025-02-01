@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Creating a QR code with Python."
+---
+
 ![](../Img/pyqr.avif)
 
 # Başlıq: Python ilə QR kod yaratmaq.

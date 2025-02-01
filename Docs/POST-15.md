@@ -1,3 +1,8 @@
+---
+layout: default
+title: "What is ASCII, Unicode, UTF-8?"
+---
+
 ![](../Img/ascii.avif)
 
 # Başlıq: ASCII, Unicode, UTF-8 nədir?
