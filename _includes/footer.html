@@ -1,35 +1,24 @@
-<footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
-  <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
-      </div>
+<footer>
+  <div class="footer-content">
+    <!-- Sol Tarafta "My Developedia AZ" Yazısı -->
+    <div class="footer-left">
+      <p>My Developedia Azerbaijan</p>
+      <img src="{{ '/assets/MDA-logo.avif' | relative_url }}" alt="Site Logo" height="50">
     </div>
 
+    <!-- Sağ Tarafta Sosyal Medya Linkleri -->
+    <div class="footer-right">
+      <a href="https://github.com/knvmrt/my-developedia-azerbaijan" target="_blank">
+        GitHub
+      </a>
+      <a href="https://knvmrt.vercel.app/" target="_blank">
+        KNVMRT Web Site:
+      </a>
+    </div>
   </div>
 
+  <!-- Alt Kısımda Lisans Bilgisi -->
+  <div class="footer-bottom">
+    <p>© <span id="current-year">2023</span> My Developedia AZ. All rights reserved.</p>
+  </div>
 </footer>
