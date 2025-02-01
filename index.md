@@ -82,4 +82,4 @@ layout: home
     <hr>
   </details>
 </details>
-<br></br>
+<br>
