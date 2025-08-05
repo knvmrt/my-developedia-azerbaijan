@@ -24,7 +24,8 @@
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-16.md">WSL nədir? </a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-17.md">NMAP nədir?</a></h3>
-    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-18.md">Metasploit nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
@@ -43,6 +44,8 @@
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-14.md">Kvant kompüteri nədir? </a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-16.md">WSL nədir? </a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
@@ -63,6 +66,8 @@
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-5.md">IDE nədir? </a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-6.md">Git və GitHub nədir? </a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-15.md">ASCII, Unicode, UTF-8 nədir? </a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-19.md">LLM nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
