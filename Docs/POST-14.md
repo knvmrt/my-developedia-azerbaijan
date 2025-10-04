@@ -12,9 +12,9 @@ Kvant kompüteri klassik kompüterlərdən xaricində kvant mexanikasının prin
   
 2. **Emal qabiliyyəti:**
    - **Klassik Kompüter:** Əməliyyatları ardıcıllıqla yerinə yetirir. Paralel emal aparmaq üçün fiziki prosessorların sayı artmalıdır. 
-   - **Kuantum Bilgisayarı:** Süperpozisyon ve dolaylılık (entanglement) sayesinde aynı anda birçok işlemi gerçekleştirebilir. Bu, kuantum bilgisayarlarını belirli problemlerde (örneğin, şifre çözme, büyük veri analizi) olağanüstü hızlı hale getirir.
+   - **Kvant Kompüterləri:** Superpozisiya və dolaşıqlıq (entanglement) sayəsində kvant kompüterləri eyni vaxtda bir çox əməliyyatları yerinə yetirə bilər və bu, onları müəyyən problemlər (məsələn, şifrənin açılması, böyük məlumatların təhlili) üçün prosesi sürətli şəkildə həll edir.
 
-3. **İşləmə məntiqi:**
+1. **İşləmə məntiqi:**
    - **Klassik kompüter:** Tranzistorlar və məntiq qapıları ilə işləyir. Elektrik cərəyanının mövcudluğu 1, yoxluğu isə 0 kimi müəyyən edilir.
    - **Kvant Kompüteri:** Atomaltı hissəciklərin kvant vəziyyətlərindən istifadə edir. O, kvant məntiq qapıları və kvant alqoritmləri ilə işləyir.
 
