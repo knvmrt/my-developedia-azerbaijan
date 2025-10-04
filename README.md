@@ -28,6 +28,7 @@
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-23.md">İnternet Topologiyası nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
@@ -50,6 +51,7 @@
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-20.md">MCP nədir?</a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-21.md">Database (Məlumat Bazası) nədir?</a></h3>
     <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-22.md">BASH Script nədir?</a></h3>
+    <h3><a href="https://github.com/knvmrt/my-developedia-azerbaijan/blob/master/Docs/POST-23.md">İnternet Topologiyası nədir?</a></h3>
   </ul>
   <hr></hr>
   </details>
